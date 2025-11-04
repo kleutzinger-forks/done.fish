@@ -22,13 +22,13 @@ After installing you could type, for instance `sleep 6`, and start using other a
 #### Using [Fisher](https://github.com/jorgebucaran/fisher)
 
 ```fish
-fisher install franciscolourenco/done
+fisher install kleutzinger-forks/done.fish
 ```
 
 #### Manually
 
 ```fish
-curl -Lo ~/.config/fish/conf.d/done.fish --create-dirs https://raw.githubusercontent.com/franciscolourenco/done/master/conf.d/done.fish
+curl -Lo ~/.config/fish/conf.d/done.fish --create-dirs https://raw.githubusercontent.com/kleutzinger-forks/done.fish/master/conf.d/done.fish
 ```
 
 #### Arch Linux
